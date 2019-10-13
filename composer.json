@@ -1,0 +1,24 @@
+{
+  "name": "mage-helper/magento2-create-custom-table",
+  "description": "Magento 2 Create Custom Table Simple Module",
+  "type": "magento2-module",
+  "keywords": ["magento2", "mage helper magento 2 extensions", "magento2-create-custom-table", "magento2-custom-module", "mage helper magento 2 free extensions"],
+  "version": "1.0.2",
+  "authors": [
+    {
+      "name": "Kishan Savaliya",
+      "email": "kishansavaliyakb@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "~7.0.0|~7.1.3|~7.2.0"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MageHelper\\CreateCustomTable\\": ""
+    }
+  }
+}
