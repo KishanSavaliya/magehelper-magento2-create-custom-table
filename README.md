@@ -212,7 +212,7 @@ class InstallData implements InstallDataInterface
 
 **Output : InstallSchema and InstallData**
 
-![MageHelper Create custom table Magento 2 with the use of InstallSchema, InstallData output](https://github.com/KishanSavaliya/magehelper-magento2-print-hello-world/blob/master/MageHelper/MageHelper-PrintHelloWorld-Output.png)
+![MageHelper Create custom table Magento 2 with the use of InstallSchema, InstallData output](https://github.com/KishanSavaliya/magehelper-magento2-create-custom-table/blob/master/MageHelper/Magento2-Use-Of-InstallSchema-InstallData-Custom-Table.png)
 
 
 ### Step - 6 - Create UpgradeSchema
@@ -300,7 +300,7 @@ Now content for this file is :
 
 - New field `employee_salary` now created in database.
 
-![MageHelper Create custom table Magento 2 with the use of UpgradeSchema output](https://github.com/KishanSavaliya/magehelper-magento2-print-hello-world/blob/master/MageHelper/MageHelper-PrintHelloWorld-Output.png)
+![MageHelper Create custom table Magento 2 with the use of UpgradeSchema output](https://github.com/KishanSavaliya/magehelper-magento2-create-custom-table/blob/master/MageHelper/Magento2-Use-Of-UpgradeSchema-Custom-Table.png)
 
 ### Step - 7 - Create UpgradeData
 
@@ -383,4 +383,4 @@ Now content for this file is :
 
 - Employee's salary field updated and also first employee's position updated here.
 
-![MageHelper Create custom table Magento 2 with the use of UpgradeData output](https://github.com/KishanSavaliya/magehelper-magento2-print-hello-world/blob/master/MageHelper/MageHelper-PrintHelloWorld-Output.png)
+![MageHelper Create custom table Magento 2 with the use of UpgradeData output](https://github.com/KishanSavaliya/magehelper-magento2-create-custom-table/blob/master/MageHelper/Magento2-Use-Of-UpgradeData-Custom-Table.png)
